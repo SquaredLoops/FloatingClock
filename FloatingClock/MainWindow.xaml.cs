@@ -51,7 +51,7 @@ namespace FloatingClock
             this.Dispatcher.Invoke(DispatcherPriority.Normal, (Action)(() =>
             {
                 DigialTime.Content = $"{DateTime.Now:HH:mm}";
-                DigitalDate.Content = $"{DateTime.Now:D}";
+                DigitalDate.Content = $"{DateTime.Now:dddd}, {DateTime.Now:D}";
             }));
         }
     }

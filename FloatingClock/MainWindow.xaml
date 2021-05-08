@@ -32,6 +32,6 @@
         <Label x:Name="DigitalDate" Foreground="White" 
                Margin="0, 140, 0, 0 " HorizontalAlignment="Center" 
                VerticalAlignment="Center" Height="Auto"
-               Width="Auto" Content="Press Escape to close" FontSize="40px"/>
+               Width="Auto" Content="Press Escape to close" FontSize="32"/>
     </Grid>
 </Window>
