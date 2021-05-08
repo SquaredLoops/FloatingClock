@@ -5,6 +5,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
     <StartupObject>FloatingClock.App</StartupObject>
+    <AssemblyName>Floating Clock</AssemblyName>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+    <Authors>Pete Beresford</Authors>
+    <Company>SquaredLoops</Company>
+    <Description>A simple digital clock that floats over your desktop. This is ideal for watching the time during Teams / Zoom / WebEx calls where you can place the clock under your webcam and always maintain eye contact.</Description>
+    <Copyright>Copyright (c) 2021 SquaredLoops</Copyright>
+    <RepositoryUrl>https://github.com/SquaredLoops/FloatingClock</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
   </PropertyGroup>
 
 </Project>
